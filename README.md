@@ -19,7 +19,7 @@ const vishwa = {
   location: "Anthiyur, Erode, Tamil Nadu 🇮🇳",
   currentFocus: "Building scalable full-stack apps & shipping fast",
   background: "Electronics Engineer turned Full-Stack Dev",
-  funFact: "Switched from Frontend → Full-Stack in 2 months on my own initiative 🚀"
+  funFact: "Switched from Frontend → Full-Stack in 2 months on my own initiative"
 };
 ```
 
@@ -62,7 +62,7 @@ const vishwa = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Prabha Tex MERN E-Commerce Platform](https://github.com/Vishwa-Code-Max)
 > Full-stack e-commerce platform for a live saree retail brand
@@ -75,7 +75,7 @@ const vishwa = {
 
 ---
 
-### 🏢 Enterprise Admin Management System
+### Enterprise Admin Management System
 > Internal ERP platform covering HR, payroll, attendance, recruitment & more
 
 - **10+ independent business modules** in one unified interface
@@ -88,9 +88,9 @@ const vishwa = {
 ### [Vidiyal Interactive Web Experience Platform](https://github.com/Vishwa-Code-Max)
 > High-performance immersive platform with scroll-triggered animations
 
-- 🎞️ GSAP scroll-triggered animations & custom timelines running at **60fps**
-- 🌐 Three.js 3D visuals + Lottie vector animations for layered UI
-- 🚀 React.lazy + Suspense → **~40% reduction** in unnecessary re-renders
+- GSAP scroll-triggered animations & custom timelines running at **60fps**
+- Three.js 3D visuals + Lottie vector animations for layered UI
+- React.lazy + Suspense → **~40% reduction** in unnecessary re-renders
 - `React.js` `GSAP` `Three.js` `Node.js`
 
 ---
