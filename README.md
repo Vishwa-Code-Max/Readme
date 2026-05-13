@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```js
 const vishwa = {
@@ -23,15 +23,15 @@ const vishwa = {
 };
 ```
 
-- 🏢 **8 months** professional experience @ Gessdemn Global Services, Coimbatore
-- 🏆 **25+ end-to-end projects** delivered static sites, SPAs, e-commerce, ERP systems
-- 🥇 **Employee of the Month** December 2025
-- 🎓 B.E. in Electronics & Communication Engineering Sona College of Technology, Salem
-- 💡 Trusted with an internal **Enterprise Admin Management System** early in my career
+- **8 months** professional experience @ Gessdemn Global Services, Coimbatore
+- **25+ end-to-end projects** delivered static sites, SPAs, e-commerce, ERP systems
+- **Employee of the Month** December 2025
+- B.E. in Electronics & Communication Engineering Sona College of Technology, Salem
+- Trusted with an internal **Enterprise Admin Management System** early in my career
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -64,13 +64,13 @@ const vishwa = {
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Prabha Tex MERN E-Commerce Platform](https://github.com/Vishwa-Code-Max)
+### [Prabha Tex MERN E-Commerce Platform](https://github.com/Vishwa-Code-Max)
 > Full-stack e-commerce platform for a live saree retail brand
 
-- 💳 Razorpay integration with **server-side signature verification** for secure payments
-- 🔐 JWT authentication + **role-based access control** for admin dashboard
-- ☁️ Cloudinary CDN for optimized image delivery
-- 📦 MongoDB schemas for products, users, orders, coupons & inventory with indexing
+- Razorpay integration with **server-side signature verification** for secure payments
+- JWT authentication + **role-based access control** for admin dashboard
+- Cloudinary CDN for optimized image delivery
+- MongoDB schemas for products, users, orders, coupons & inventory with indexing
 - `MongoDB` `Express.js` `React.js` `Node.js` `Razorpay` `Cloudinary`
 
 ---
@@ -78,14 +78,14 @@ const vishwa = {
 ### 🏢 Enterprise Admin Management System
 > Internal ERP platform covering HR, payroll, attendance, recruitment & more
 
-- 🧩 **10+ independent business modules** in one unified interface
-- ⚡ Lazy loading + memoization + code splitting → **~35% improvement** in Time-to-Interactive
-- 🔒 Role-based permission system: HR / Admin / Management tiers
+- **10+ independent business modules** in one unified interface
+- Lazy loading + memoization + code splitting → **~35% improvement** in Time-to-Interactive
+- Role-based permission system: HR / Admin / Management tiers
 - `React.js` `Redux Toolkit` `JSON Server`
 
 ---
 
-### 🎨 [Vidiyal Interactive Web Experience Platform](https://github.com/Vishwa-Code-Max)
+### [Vidiyal Interactive Web Experience Platform](https://github.com/Vishwa-Code-Max)
 > High-performance immersive platform with scroll-triggered animations
 
 - 🎞️ GSAP scroll-triggered animations & custom timelines running at **60fps**
@@ -95,27 +95,27 @@ const vishwa = {
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-| 🏅 Award | 📍 Where | 📅 When |
+| Award | Where | When |
 |---|---|---|
-| 🥇 Employee of the Month | Gessdemn Global Services | December 2025 |
-| 🏆 Best Project Award Real-Time Assistive System for Visually Impaired | Sona College of Technology | 2025 |
-| 📐 JEE Advanced Qualifier | 69th Percentile in JEE Main | |
+| Employee of the Month | Gessdemn Global Services | December 2025 |
+| Best Project Award Real-Time Assistive System for Visually Impaired | Sona College of Technology | 2025 |
+| JEE Advanced Qualifier | 69th Percentile in JEE Main | |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🤖 **Machine Learning with Python** - IBM
-- 🌐 **Web Development Fundamentals** - IBM
-- 🧱 **Full Stack Development** - Anna University
-- 👁️ **Vision Bot** - Texas Instrumentation
-- 🔧 **Google IT Support Professional Certificate** - Google
+- **Machine Learning with Python** - IBM
+- **Web Development Fundamentals** - IBM
+- **Full Stack Development** - Anna University
+- **Vision Bot** - Texas Instrumentation
+- **Google IT Support Professional Certificate** - Google
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ const vishwa = {
 
 <div align="center">
 
-**Open to MERN Stack / Associate Software Developer roles 🚀**
+**Open to MERN Stack / Associate Software Developer roles**
 
 *Let's build something great together.*
 
