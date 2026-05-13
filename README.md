@@ -19,14 +19,14 @@ const vishwa = {
   location: "Anthiyur, Erode, Tamil Nadu 🇮🇳",
   currentFocus: "Building scalable full-stack apps & shipping fast",
   background: "Electronics Engineer turned Full-Stack Dev",
-  funFact: "Switched from Frontend → Full-Stack in 2 months — on my own initiative 🚀"
+  funFact: "Switched from Frontend → Full-Stack in 2 months on my own initiative 🚀"
 };
 ```
 
 - 🏢 **8 months** professional experience @ Gessdemn Global Services, Coimbatore
-- 🏆 **25+ end-to-end projects** delivered — static sites, SPAs, e-commerce, ERP systems
-- 🥇 **Employee of the Month** — December 2025
-- 🎓 B.E. in Electronics & Communication Engineering — Sona College of Technology, Salem
+- 🏆 **25+ end-to-end projects** delivered static sites, SPAs, e-commerce, ERP systems
+- 🥇 **Employee of the Month** December 2025
+- 🎓 B.E. in Electronics & Communication Engineering Sona College of Technology, Salem
 - 💡 Trusted with an internal **Enterprise Admin Management System** early in my career
 
 ---
@@ -64,7 +64,7 @@ const vishwa = {
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Prabha Tex — MERN E-Commerce Platform](https://github.com/Vishwa-Code-Max)
+### 🛍️ [Prabha Tex MERN E-Commerce Platform](https://github.com/Vishwa-Code-Max)
 > Full-stack e-commerce platform for a live saree retail brand
 
 - 💳 Razorpay integration with **server-side signature verification** for secure payments
@@ -85,7 +85,7 @@ const vishwa = {
 
 ---
 
-### 🎨 [Vidiyal — Interactive Web Experience Platform](https://github.com/Vishwa-Code-Max)
+### 🎨 [Vidiyal Interactive Web Experience Platform](https://github.com/Vishwa-Code-Max)
 > High-performance immersive platform with scroll-triggered animations
 
 - 🎞️ GSAP scroll-triggered animations & custom timelines running at **60fps**
@@ -100,28 +100,24 @@ const vishwa = {
 | 🏅 Award | 📍 Where | 📅 When |
 |---|---|---|
 | 🥇 Employee of the Month | Gessdemn Global Services | December 2025 |
-| 🏆 Best Project Award — Real-Time Assistive System for Visually Impaired | Sona College of Technology | 2025 |
-| 📐 JEE Advanced Qualifier | 69th Percentile in JEE Main | — |
+| 🏆 Best Project Award Real-Time Assistive System for Visually Impaired | Sona College of Technology | 2025 |
+| 📐 JEE Advanced Qualifier | 69th Percentile in JEE Main | |
 
 ---
 
 ## 📜 Certifications
 
-- 🤖 **Machine Learning with Python** — IBM
-- 🌐 **Web Development Fundamentals** — IBM
-- 🧱 **Full Stack Development** — Anna University
-- 👁️ **Vision Bot** — Texas Instrumentation
-- 🔧 **Google IT Support Professional Certificate** — Google
+- 🤖 **Machine Learning with Python** - IBM
+- 🌐 **Web Development Fundamentals** - IBM
+- 🧱 **Full Stack Development** - Anna University
+- 👁️ **Vision Bot** - Texas Instrumentation
+- 🔧 **Google IT Support Professional Certificate** - Google
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwa-Code-Max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Code-Max&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vishwa-Code-Max&theme=tokyonight&hide_border=true)
 
